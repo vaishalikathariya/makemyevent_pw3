@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "128236409453",
+    "project_id": "eventmanage-d8538",
+    "storage_bucket": "eventmanage-d8538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128236409453:android:3049dbc109a4fda3b12564",
+        "android_client_info": {
+          "package_name": "com.darshansapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128236409453-vimcb50tt53cghhmh3434c4778opfip7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZV2YdJfxqjYWCOz_bmXCQKH42TScskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128236409453-vimcb50tt53cghhmh3434c4778opfip7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128236409453-6b2a2k1c58s8d2978mjflo1ud2tpt338.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.darshansapplication.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
